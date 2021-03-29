@@ -1,0 +1,37 @@
+Date and Time : 11/07/15 18:54:32
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Compatibility with SDT
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    V+
+    V-
+    GND_SIGNAL
+
+Reporting Net Names
+    OUT
+    IN
+    V+
+    FB
+    GND_SIGNAL
+    V-
+
+Checking Misleading Tap connection
+
+ERROR(ORCAP-2207): Check Bus width mismatch
